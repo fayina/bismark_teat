@@ -1,2 +1,2 @@
 # bismark_test
-bismark_test
+WGBS test data with 250K reads and bismark report. 
